@@ -1,0 +1,336 @@
+Brand,Model,Rating,Rating_Members,Price(Rs),Engine(cc),Mileage(kmpl),Power(bhp),Weight(kg),Rating_Imputed,Rating_Clean
+TVS,TVS Raider 125,4.4,2971.0,86943,124.8,56.7,11.2,123.0,False,4.4
+Royal Enfield,Royal Enfield Hunter 350,4.7,1843.0,137640,349.34,36.2,20.2,181.0,False,4.7
+Royal Enfield,Royal Enfield Classic 350,4.7,82.0,188934,349.0,41.55,20.2,195.0,False,4.7
+Royal Enfield,Royal Enfield Bullet 350,4.7,1593.0,166981,349.0,35.0,20.2,195.0,False,4.7
+TVS,TVS Ronin,4.6,1181.0,130809,225.9,42.0,20.1,160.0,False,4.6
+Honda,Honda SP 125,4.6,4595.0,91370,123.94,63.0,10.72,117.0,False,4.6
+TVS,TVS Apache RTR 160,4.5,3359.0,110524,159.7,61.0,15.82,138.0,False,4.5
+Bajaj,Bajaj Pulsar N160 2V,4.6,1291.0,122948,164.82,51.6,15.68,152.0,False,4.6
+Triumph,Triumph Bonneville T40,4.4,8.0,254999,349.0,27.35,28.6,195.0,False,4.4
+Hero,Hero Xtreme 125R,4.6,1921.0,92855,124.7,66.0,11.4,136.0,False,4.6
+Yamaha,Yamaha MT 15 V2,4.7,1880.0,166586,155.0,47.0,18.1,141.0,False,4.7
+TVS,TVS Jupiter,4.5,1184.0,77373,113.3,53.84,7.91,106.0,False,4.5
+Honda,Honda Activa,4.4,4318.0,78962,109.51,47.0,7.88,105.0,False,4.4
+Honda,Honda CB350,4.6,317.0,195200,348.36,35.0,20.78,181.0,False,4.6
+Jawa,Jawa All Stars 42 Bobber,4.5,14.0,210981,334.0,30.0,29.51,185.0,False,4.5
+Bajaj,Bajaj Pulsar NS400Z,4.6,51.0,191358,349.13,32.0,40.04,176.0,False,4.6
+Yamaha,Yamaha R15 V4,4.8,1560.0,175692,155.0,46.0,18.1,141.0,False,4.8
+TVS,TVS Jupiter 125,4.1,953.0,87860,124.8,50.0,8.04,108.0,False,4.1
+Royal Enfield,Royal Enfield Continental GT 650,4.7,35.0,358427,648.0,23.0,47.0,211.0,False,4.7
+Bajaj,Bajaj Pulsar NS200,4.7,3351.0,139257,199.5,36.0,24.13,158.0,False,4.7
+Royal Enfield,Royal Enfield Guerrilla 450,4.7,78.0,251063,452.0,28.0,39.47,185.0,False,4.7
+Yezdi,Yezdi Roadster,4.4,222.0,201940,334.0,30.0,28.7,184.0,False,4.4
+Royal Enfield,Royal Enfield Meteor 350,4.7,257.0,201052,349.34,32.0,20.2,191.0,False,4.7
+TVS,TVS Ntorq 125,4.4,2310.0,91056,124.8,48.5,9.25,109.0,False,4.4
+Yamaha,Yamaha XSR 155,4.6,292.0,150964,155.0,46.0,18.1,137.0,False,4.6
+Hero,Hero Splendor Plus,4.6,4883.0,77749,97.2,63.0,7.91,112.0,False,4.6
+Bajaj,Bajaj Pulsar NS125,4.5,987.0,94044,124.45,46.9,11.8,144.0,False,4.5
+Suzuki,Suzuki Access 125,4.6,1119.0,85038,124.0,47.0,8.3,105.0,False,4.6
+Honda,Honda CB350RS,4.6,269.0,199900,348.36,35.0,20.78,180.0,False,4.6
+Honda,Honda Shine,4.4,4087.0,84369,123.94,55.0,10.63,113.0,False,4.4
+Bajaj,Bajaj Pulsar 125,4.5,33.0,94033,124.58,50.0,11.8,131.0,True,
+Harley-Davidson,Harley-Davidson X440,4.8,803.0,235000,440.0,35.0,27.0,190.5,False,4.8
+KTM,KTM 250 Duke,4.8,459.0,227653,249.07,32.0,30.57,162.8,False,4.8
+Honda,Honda Unicorn,4.4,1842.0,115839,162.71,50.0,13.0,139.0,False,4.4
+TVS,TVS Apache RTR 160 4V,4.5,2335.0,116479,159.7,41.4,17.31,146.0,False,4.5
+Hero,Hero Glamour X 125,4.6,362.0,90345,124.7,65.0,11.4,127.0,False,4.6
+Royal Enfield,Royal Enfield Himalayan 450,4.7,411.0,308029,451.65,29.0,39.47,195.0,False,4.7
+Bajaj,Bajaj Pulsar N250,4.5,446.0,145519,249.0,44.0,24.1,164.0,False,4.5
+Triumph,Triumph Speed 400,4.2,64.0,235484,349.0,28.0,36.49,179.0,False,4.2
+Bajaj,Bajaj Pulsar N160 4V,4.5,51.0,135416,164.5,51.6,18.24,151.0,False,4.5
+KTM,KTM 390 Duke,4.7,31.0,285530,349.32,28.0,40.9,168.3,False,4.7
+Hero,Hero Xpulse 200 4V,4.5,662.0,149464,199.6,32.9,18.9,161.0,False,4.5
+KTM,KTM 200 Duke,4.7,637.0,191570,199.5,35.0,24.67,159.0,False,4.7
+Honda,Honda CB 125 Hornet,4.6,277.0,115317,123.94,55.0,10.99,124.0,False,4.6
+Honda,Honda Activa 125,4.5,2149.0,92804,123.92,47.0,8.3,106.0,False,4.5
+Royal Enfield,Royal Enfield Himalayan 440,4.6,42.0,229900,443.0,31.5,25.4,199.0,False,4.6
+TVS,TVS Apache RR 310,4.7,215.0,266179,312.2,34.7,37.54,174.0,False,4.7
+Hero,Hero HF Deluxe,4.5,3932.0,58726,97.2,65.0,7.91,112.0,False,4.5
+Yamaha,Yamaha R2,4.5,28.0,231501,204.0,38.0,26.5,150.0,False,4.5
+Bajaj,Bajaj Pulsar NS160,4.6,1696.0,126791,160.3,52.2,17.03,152.0,False,4.6
+Bajaj,Bajaj Dominar 400,4.6,53.0,209524,349.13,30.0,40.04,190.0,False,4.6
+Bajaj,Bajaj Pulsar RS 200,4.7,2152.0,182014,199.5,35.0,24.1,167.0,False,4.7
+Hero,Hero Xoom 125,4.2,176.0,86816,124.6,52.8,9.8,121.0,False,4.2
+Jawa,Jawa All Stars 42,3.9,7.0,186948,294.72,32.0,26.94,184.0,False,3.9
+Hero,Hero Xtreme 250R,4.7,240.0,172591,249.03,36.0,29.5,167.7,False,4.7
+Royal Enfield,Royal Enfield Super Meteor 650,4.8,233.0,405988,648.0,23.7,46.3,241.0,False,4.8
+BMW,BMW G310 RR,4.8,466.0,289994,312.12,30.0,33.5,174.0,False,4.8
+Hero,Hero Destini 125,4.6,152.0,82429,124.6,59.0,9.0,115.0,False,4.6
+TVS,TVS XL 100 Heavy Duty,4.5,424.0,47922,99.7,57.0,4.3,89.0,False,4.5
+Yezdi,Yezdi Adventure,4.4,102.0,208143,334.0,30.5,29.16,187.0,False,4.4
+Triumph,Triumph Speed T4,4.3,24.0,210278,349.0,30.0,28.6,180.0,False,4.3
+Aprilia,Aprilia RS 457,4.7,34.0,433416,457.0,24.0,46.9,175.0,False,4.7
+Yamaha,Yamaha FZ S Hybrid,4.6,191.0,141755,149.0,60.0,12.2,136.0,False,4.6
+KTM,KTM 160 Duke,4.8,89.0,183603,164.2,37.0,18.73,147.0,False,4.8
+TVS,TVS Radeon,4.5,0.0,73741,109.7,63.0,8.08,115.0,True,
+TVS,TVS Apache RTR 310,4.5,0.0,229990,312.12,30.0,35.08,169.0,True,
+Yamaha,Yamaha Ray ZR 125,4.2,24.0,82678,125.0,49.0,8.04,99.0,False,4.2
+Hero,Hero Xtreme 160R,4.3,600.0,113638,163.2,49.65,14.79,139.5,False,4.3
+Jawa,Jawa All Stars 42 FJ,4.4,7.0,203545,334.0,30.0,28.77,184.0,False,4.4
+Bajaj,Bajaj Pulsar 150,4.5,17.0,116360,149.5,48.0,14.0,137.0,True,
+TVS,TVS Ntorq 150,4.6,146.0,112931,149.7,40.0,13.0,115.0,False,4.6
+KTM,KTM 390 Adventure,4.4,24.0,289252,349.32,28.0,40.93,181.0,False,4.4
+Honda,Honda SP160,4.5,393.0,118541,162.71,50.0,13.27,140.0,False,4.5
+Royal Enfield,Royal Enfield Shotgun 650,4.8,165.0,401002,648.0,22.0,46.39,240.0,False,4.8
+Keeway,Keeway V302C,4.5,92.0,448960,298.0,36.0,29.09,167.0,False,4.5
+TVS,TVS Sport,4.4,1682.0,65729,109.7,80.0,8.08,112.0,False,4.4
+Hero,Hero Xpulse 210,4.4,270.0,168218,210.0,37.0,24.2,170.0,False,4.4
+Suzuki,Suzuki V-Strom SX,4.6,233.0,204645,249.0,36.0,26.1,167.0,False,4.6
+Hero,Hero Splendor Plus Xtec,4.6,922.0,82573,97.2,73.0,7.9,113.6,False,4.6
+TVS,TVS Apache RTR 200 4V,4.5,1739.0,138353,197.75,41.9,20.54,152.0,False,4.5
+Honda,Honda Shine 100,4.6,725.0,66002,98.98,65.0,7.28,103.0,False,4.6
+Royal Enfield,Royal Enfield Interceptor 650,4.6,488.0,337909,648.0,23.0,47.0,218.0,False,4.6
+Triumph,Triumph Scrambler 400 X,4.1,22.0,266312,349.0,27.0,36.49,185.0,False,4.1
+Hero,Hero Passion Plus,4.6,418.0,81048,97.2,71.0,7.91,116.0,False,4.6
+Harley-Davidson,Harley-Davidson X440 T,4.8,50.0,286000,440.0,30.0,27.37,192.0,False,4.8
+Honda,Honda Hornet 2.0,4.2,613.0,150307,184.4,42.3,17.03,142.0,False,4.2
+Bajaj,Bajaj Pulsar 220F,4.4,13.0,140641,220.0,43.0,20.11,160.0,False,4.4
+Yamaha,Yamaha FZS FI V4,4.6,508.0,120399,149.0,50.0,12.2,137.0,False,4.6
+Hero,Hero Pleasure Plus,4.5,516.0,70885,110.9,50.0,8.0,104.0,False,4.5
+Honda,Honda CB350C,4.8,25.0,200300,348.36,37.5,20.7,186.0,False,4.8
+Kawasaki,Kawasaki Z900,4.9,60.0,999000,948.0,21.0,123.6,212.0,False,4.9
+TVS,TVS Apache RTX,4.7,169.0,199495,299.0,32.5,35.5,180.0,False,4.7
+Honda,Honda Rebel 300,4.7,15.0,222000,286.0,26.0,30.0,172.0,False,4.7
+Hero,Hero Xtreme 160R 4V,4.7,180.0,135907,163.2,45.0,16.6,145.0,False,4.7
+KTM,KTM 390 Duke R,4.8,477.0,346848,398.63,29.0,45.3,168.3,False,4.8
+Royal Enfield,Royal Enfield Goan Classic 350,4.8,91.0,227114,349.0,36.2,20.2,197.0,False,4.8
+Hero,Hero Super Splendor Xtec 2.0,4.4,26.0,86508,124.7,75.0,10.7,121.0,False,4.4
+Honda,Honda ADV 160,4.5,10.0,170000,156.9,46.0,16.0,137.0,True,
+Hero,Hero Xoom 160,4.7,80.0,144463,156.0,41.0,14.6,142.5,False,4.7
+Bajaj,Bajaj Dominar 250,4.5,401.0,186830,248.8,35.0,26.63,180.0,False,4.5
+Yamaha,Yamaha FZ X,4.55,668.0,126540,149.0,47.0,12.2,139.0,True,
+Suzuki,Suzuki Burgman Street 125,4.5,88.0,106602,124.0,58.5,8.31,115.0,False,4.5
+KTM,KTM 250 Adventure,4.3,49.0,253651,248.76,31.0,30.5,177.0,False,4.3
+Triumph,Triumph Tracker 400,4.6,14.0,243248,349.0,27.7,39.45,183.0,False,4.6
+TVS,TVS Zest 110,4.2,251.0,70503,109.7,45.0,7.71,103.0,False,4.2
+Hero,Hero Glamour,4.1,1300.0,85600,124.7,65.0,10.39,122.5,False,4.1
+TVS,TVS Apache RTR 180,4.6,707.0,128078,177.4,42.0,16.78,140.0,False,4.6
+Honda,Honda Dio 125,4.6,224.0,94269,123.92,47.0,8.19,104.0,False,4.6
+Honda,Honda NX200,4.6,69.0,161295,184.4,42.0,16.76,148.0,False,4.6
+Bajaj,Bajaj Pulsar N125,4.4,185.0,93690,124.58,60.0,11.83,125.0,False,4.4
+Honda,Honda Dio,4.6,2173.0,75093,109.51,48.0,7.75,106.0,False,4.6
+Yamaha,Yamaha Aerox 155,4.5,366.0,146265,155.0,40.0,14.75,126.0,False,4.5
+Royal Enfield,Royal Enfield Classic 650,4.7,57.0,367592,647.95,27.0,46.39,243.0,False,4.7
+Hero,Hero Destini 110,4.5,33.0,78141,110.9,56.2,8.07,114.0,False,4.5
+Honda,Honda CB500,4.3,8.0,275000,501.0,26.5,26.6,196.0,False,4.3
+Yezdi,Yezdi Scrambler,3.7,8.0,201981,334.0,30.25,29.56,174.0,False,3.7
+Jawa,Jawa Perak,4.7,311.0,221853,334.0,30.0,30.2,185.0,False,4.7
+Royal Enfield,Royal Enfield Scram 440,4.4,78.0,224364,443.0,30.0,25.4,196.0,False,4.4
+Yamaha,Yamaha R15S,4.8,260.0,160026,155.0,46.0,18.1,142.0,False,4.8
+Royal Enfield,Royal Enfield Bear 650,4.4,40.0,378208,648.0,22.0,46.8,216.0,False,4.4
+Yamaha,Yamaha FZ X Hybrid,4.7,64.0,145969,149.0,51.0,12.2,141.0,False,4.7
+Suzuki,Suzuki Gixxer SF 250,4.6,242.0,195340,249.0,35.0,26.13,161.0,False,4.6
+Yamaha,Yamaha Fascino 125,4.3,13.0,81256,125.0,49.0,8.04,99.0,False,4.3
+BMW,BMW F 450 GS,4.4,25.0,495000,420.0,26.0,48.67,178.0,False,4.4
+Aprilia,Aprilia Tuono 457,4.7,20.0,406181,457.0,29.0,46.9,175.0,False,4.7
+Yamaha,Yamaha FZ FI,4.5,576.0,116331,149.0,46.0,12.2,135.0,False,4.5
+Jawa,Jawa 350,3.8,46.0,184468,334.0,29.5,22.26,194.0,False,3.8
+Kawasaki,Kawasaki Ninja 300,4.7,5.0,334000,296.0,27.0,38.88,179.0,True,
+Suzuki,Suzuki Gixxer SF,4.5,713.0,143284,155.0,45.0,13.4,148.0,False,4.5
+Hero,Hero Xoom 110,4.3,177.0,78903,110.9,45.0,8.05,109.0,False,4.3
+Hero,Hero Splendor Plus Flex Fuel,4.6,31.0,81887,97.2,62.0,8.44,113.0,False,4.6
+Hero,Hero Super Splendor Xtec,4.5,244.0,84523,124.7,69.0,10.72,123.0,False,4.5
+Bajaj,Bajaj Pulsar 180,4.3,15.0,122955,178.61,43.5,16.76,156.0,False,4.3
+Hero,Hero Pleasure Plus Xtec,3.9,104.0,78450,110.9,50.0,8.0,106.0,False,3.9
+Bajaj,Bajaj Avenger Cruise 220,4.4,894.0,135199,220.0,39.0,18.76,163.0,False,4.4
+Triumph,Triumph Thruxton 400,4.2,6.0,276655,349.0,27.0,39.45,190.0,False,4.2
+Suzuki,Suzuki Avenis 125,4.6,356.0,93909,124.3,49.6,8.58,106.0,False,4.6
+Husqvarna,Husqvarna Vitpilen 250,4.8,62.0,227774,249.0,37.0,30.57,163.8,False,4.8
+BMW,BMW S1000RR,4.8,62.0,2375000,999.0,16.0,206.51,197.0,False,4.8
+KTM,KTM RC 160,4.4,11.0,201024,164.2,35.0,18.73,155.0,False,4.4
+Bajaj,Bajaj Avenger Street 220,4.1,7.0,135137,220.0,43.25,18.76,160.0,False,4.1
+Honda,Honda Livo,4.4,1218.0,81023,109.51,60.0,8.67,112.0,False,4.4
+Suzuki,Suzuki Hayabusa,4.8,34.0,1899000,1340.0,18.0,190.0,266.0,False,4.8
+KTM,KTM 390 Adventure S,4.9,27.0,406779,398.63,26.5,45.3,182.0,False,4.9
+Hero,Hero HF Deluxe Flex Fuel,4.3,9.0,69895,97.2,65.0,8.44,112.5,False,4.3
+Keeway,Keeway SR125,4.2,184.0,128987,125.0,47.0,9.56,120.0,False,4.2
+KTM,KTM 390 Adventure X,4.7,29.0,351227,398.63,28.0,45.3,181.0,False,4.7
+Kawasaki,Kawasaki Ninja ZX-10R,4.7,43.0,2079000,998.0,25.0,193.0,207.0,True,
+Hero,Hero Destini Prime,4.5,95.0,78267,124.6,49.0,9.0,115.0,False,4.5
+Husqvarna,Husqvarna Svartpilen 401,4.8,42.0,300406,398.63,29.0,45.3,171.2,False,4.8
+Suzuki,Suzuki Burgman Street EX,4.5,1208.0,114955,124.0,58.5,8.48,111.0,False,4.5
+TVS,TVS XL 100 Comfort,4.2,302.0,60380,99.7,55.0,4.29,89.0,False,4.2
+KTM,KTM 390 Adventure R,4.7,3.0,387903,398.7,28.0,44.2,183.0,True,
+Yamaha,Yamaha FZ Rave,4.5,22.0,125637,149.0,50.0,12.2,136.0,False,4.5
+Vespa,Vespa ZX 125,4.5,63.0,118708,124.45,45.0,9.65,115.0,False,4.5
+Vespa,Vespa Officina 8,2.5,1.0,140533,124.45,37.5,9.3,115.0,False,2.5
+Yamaha,Yamaha FZ Blue Flex,3.8,8.0,126099,149.0,50.0,11.53,136.0,False,3.8
+Bajaj,Bajaj Platina 100,4.5,1935.0,71049,99.59,75.0,7.79,117.0,False,4.5
+Bajaj,Bajaj Platina 110,4.4,763.0,75819,115.45,70.0,8.48,119.0,False,4.4
+Triumph,Triumph Street Triple RS,4.8,29.0,1322800,765.0,19.0,128.2,188.0,False,4.8
+Kawasaki,Kawasaki Ninja ZX-6R,4.8,25.0,1248948,636.0,22.0,122.03,198.0,False,4.8
+Aprilia,Aprilia SR 125,4.4,124.0,113313,124.45,39.5,10.46,118.0,False,4.4
+Aprilia,Aprilia SR 175,4.3,24.0,125799,174.7,40.0,13.08,118.0,False,4.3
+Bajaj,Bajaj CT 110,4.4,468.0,74848,115.45,70.0,8.48,127.0,False,4.4
+KTM,KTM 1390 Super Duke R,4.7,40.0,2295800,1350.0,16.9,187.7,210.0,False,4.7
+Harley-Davidson,Harley-Davidson Sportster S,4.9,15.0,1805000,1252.0,20.0,120.69,228.0,False,4.9
+Aprilia,Aprilia SR 160,3.7,103.0,121432,160.03,35.0,11.11,118.0,False,3.7
+Royal Enfield,Royal Enfield Bullet 650,4.3,8.0,364856,647.95,25.35,46.39,243.0,False,4.3
+Aprilia,Aprilia SXR GT 125 hp-e,4.35,0.0,109999,124.45,38.0,10.6,118.0,True,
+Triumph,Triumph Bonneville T120,2.5,1.0,1217000,1200.0,21.0,78.9,236.0,False,2.5
+Zontes,Zontes 350R,4.6,93.0,257014,348.0,33.0,38.2,180.0,False,4.6
+Kawasaki,Kawasaki W175,4.2,89.0,115006,177.0,42.5,12.8,135.0,False,4.2
+TVS,TVS Star City Plus,4.4,791.0,72072,109.7,70.0,8.08,116.0,False,4.4
+Triumph,Triumph Daytona 660,4.4,19.0,988400,660.0,20.0,94.0,201.0,False,4.4
+Ducati,Ducati Panigale V4 Lamborghini,4.1,8.0,10000000,1103.0,12.0,216.0,185.0,False,4.1
+Triumph,Triumph Speed Twin 900,4.7,4.0,971300,900.0,24.0,64.0,216.0,False,4.7
+KTM,KTM RC 200,4.5,228.0,232739,199.5,43.5,24.6,160.0,False,4.5
+Kawasaki,Kawasaki Z650,4.9,94.0,725960,649.0,27.0,67.31,191.0,False,4.9
+Triumph,Triumph Rocket 3,4.7,64.0,2401955,2458.0,14.6,165.0,304.0,False,4.7
+Kawasaki,Kawasaki Ninja 500,4.8,21.0,566000,451.0,21.0,44.7,171.0,False,4.8
+Hero,Hero Karizma XMR,4.4,212.0,186771,210.0,35.0,25.15,163.5,False,4.4
+Ducati,Ducati Panigale V4,4.8,23.0,3269958,1103.0,15.0,219.0,188.0,False,4.8
+KTM,KTM RC 390,4.7,143.0,333554,373.27,29.0,42.9,172.0,False,4.7
+Suzuki,Suzuki Gixxer,4.3,293.0,129461,155.0,45.0,13.41,141.0,False,4.3
+Honda,Honda CBR1000RR-R Fireblade,3.5,5.0,3350000,1000.0,19.0,214.56,201.0,False,3.5
+Keeway,Keeway SR250,3.4,55.0,158985,223.0,35.5,15.78,120.0,False,3.4
+Aprilia,Aprilia SXR GT 175 hp-e,4.35,0.0,129999,174.7,37.5,13.09,118.0,True,
+Suzuki,Suzuki GSX-8R,4.6,0.0,991236,776.0,23.8,81.8,205.0,True,
+Triumph,Triumph Scrambler 400 XC,3.5,13.0,300800,349.0,26.0,36.49,185.0,False,3.5
+Kawasaki,Kawasaki KLX230,3.3,2.0,219000,233.0,36.0,18.37,139.0,False,3.3
+Kawasaki,Kawasaki Ninja H2 SX SE,4.9,15.0,3627783,998.0,23.0,197.2,268.0,False,4.9
+Honda,Honda NX500,3.9,7.0,743900,471.0,26.5,46.9,196.0,False,3.9
+Honda,Honda Goldwing,3.3,2.0,4430000,1833.0,16.0,124.7,390.0,False,3.3
+Harley-Davidson,Harley-Davidson Nightster,4.9,9.0,1454000,975.0,18.0,88.5,221.0,False,4.9
+Triumph,Triumph Trident 660,4.4,9.0,899000,660.0,15.0,80.0,189.0,False,4.4
+Kawasaki,Kawasaki Z1100,4.9,12.0,1279000,1099.0,18.0,134.1,221.0,False,4.9
+Triumph,Triumph Street Triple R,4.8,17.0,1116300,765.0,19.0,118.4,168.0,False,4.8
+Kawasaki,Kawasaki Ninja 650,4.7,5.0,791000,649.0,21.5,67.3,196.0,False,4.7
+Triumph,Triumph Bonneville T100,4.4,2.0,1085400,900.0,24.0,64.1,228.0,True,
+QJ Motor,QJ Motor SRV 300,3.4,4.0,329000,296.0,29.0,30.72,164.0,False,3.4
+Harley-Davidson,Harley-Davidson Fat Boy,4.8,7.0,2803000,1868.0,18.0,93.87,317.0,False,4.8
+BMW,BMW M 1000 R,1.7,2.0,3350000,999.0,15.6,206.5,210.0,False,1.7
+Ducati,Ducati Panigale V4 R,4.2,10.0,8499000,998.0,12.5,221.0,193.5,False,4.2
+Benelli,Benelli TRK 502X,4.7,7.0,714000,500.0,25.0,46.8,235.0,False,4.7
+QJ Motor,QJ Motor SRK 400,4.8,15.0,398974,400.0,25.0,40.34,186.0,False,4.8
+BMW,BMW C 400 GT,4.8,5.0,1150000,350.0,28.0,33.5,214.0,False,4.8
+QJ Motor,QJ Motor SRC 250,4.5,19.0,137027,249.0,39.0,17.16,163.0,False,4.5
+Kawasaki,Kawasaki Ninja 300 [2026],4.4,13.0,317000,296.0,26.5,38.88,179.0,False,4.4
+BMW,BMW R 1300 GS,4.8,5.0,2349945,1300.0,21.0,145.0,237.0,True,
+BSA,BSA Scrambler 650,4.4,7.0,327266,652.0,25.0,45.62,208.0,False,4.4
+Triumph,Triumph Bonneville Bobber,4.4,4.0,1351600,1200.0,21.7,76.9,251.0,True,
+Suzuki,Suzuki Gixxer 250,4.7,120.0,184550,249.0,35.0,26.13,156.0,False,4.7
+Honda,Honda CB750 Hornet,3.3,2.0,1049000,755.0,19.0,90.5,191.0,False,3.3
+Triumph,Triumph Tiger 900,4.4,4.0,1440000,888.0,21.2,106.5,219.0,True,
+Zontes,Zontes 350T,4.6,36.0,275016,348.0,30.0,38.2,196.0,False,4.6
+Ducati,Ducati Panigale V2,4.4,1.0,1950975,890.0,16.6,118.0,200.0,True,
+VLF,VLF Mobster,4.6,18.0,136999,124.6,46.0,12.0,122.0,False,4.6
+Suzuki,Suzuki Gixxer SF 250 Flex Fuel,4.9,8.0,200855,249.0,35.0,26.13,161.0,False,4.9
+Harley-Davidson,Harley-Davidson Fat Bob,4.8,12.0,2296480,1868.0,18.0,92.5,306.0,False,4.8
+Benelli,Benelli 502C,4.4,24.0,579964,500.0,22.0,46.8,216.0,False,4.4
+Ducati,Ducati Monster,1.7,2.0,1399000,890.0,19.0,110.7,188.0,False,1.7
+Honda,Honda CB1000 Hornet,4.8,6.0,1329390,999.0,19.0,155.0,211.0,False,4.8
+Vespa,Vespa 125,4.1,15.0,132674,124.45,39.0,9.3,115.0,False,4.1
+Aprilia,Aprilia RS 660,4.2,5.0,1895878,659.0,26.5,98.56,183.0,False,4.2
+QJ Motor,QJ Motor SRC 500,4.2,20.0,210019,480.0,31.0,25.15,205.0,False,4.2
+Indian,Indian Scout Bobber,4.9,12.0,1495115,1250.0,21.0,106.46,246.0,False,4.9
+Kawasaki,Kawasaki Eliminator,4.7,25.0,616000,451.0,29.0,44.7,176.0,False,4.7
+Honda,Honda Transalp XL750,4.5,0.0,1320000,755.0,19.0,90.5,208.0,True,
+KTM,KTM 390 Enduro R,4.6,6.0,339269,398.63,28.0,45.37,165.8,False,4.6
+Moto Morini,Moto Morini Seiemmezzo,4.5,7.0,439195,649.0,25.0,54.24,215.0,False,4.5
+BMW,BMW S 1000 R,4.8,2.0,2225000,999.0,16.0,167.6,199.0,True,
+Triumph,Triumph Speed Twin 1200,4.6,3.0,1383800,1200.0,21.0,103.5,216.0,False,4.6
+Zontes,Zontes 350X,4.7,17.0,237040,348.0,35.0,38.2,185.0,False,4.7
+Brixton Motorcycles,Brixton Motorcycles Crossfire 500 X,3.3,6.0,497277,486.0,30.0,47.6,190.0,False,3.3
+Suzuki,Suzuki V-Strom 800 DE,4.6,1.0,1103450,776.0,22.7,83.0,232.0,True,
+Ducati,Ducati SuperSport,4.8,23.0,1716100,937.0,17.8,108.62,210.0,False,4.8
+Kawasaki,Kawasaki Versys-X 300,4.7,7.0,349000,296.0,26.75,38.8,175.0,True,
+BMW,BMW R 1300 GS Adventure,4.8,0.0,2650000,1300.0,21.0,143.4,269.0,True,
+Triumph,Triumph Speed Triple 1200 RS,4.4,2.0,2175900,1160.0,18.0,180.5,199.0,True,
+Triumph,Triumph Bonneville Speedmaster,4.4,0.0,1351600,1200.0,21.7,76.9,263.0,True,
+Aprilia,Aprilia RSV4 1100 Factory,4.35,5.0,3340763,1099.0,19.8,213.89,202.0,True,
+Ducati,Ducati Streetfighter V4,4.4,3.0,2925963,1103.0,13.15,205.0,197.5,True,
+BMW,BMW F 900 GS Adventure,4.8,3.0,1749912,895.0,22.7,103.25,246.0,True,
+Harley-Davidson,Harley-Davidson Road Glide,3.3,2.0,4575000,1923.0,16.0,107.2,380.0,False,3.3
+Kawasaki,Kawasaki Vulcan S,4.7,3.0,813000,649.0,21.5,59.94,192.0,True,
+Benelli,Benelli TRK 502,4.550000000000001,4.0,662000,500.0,25.0,46.8,228.0,True,
+Triumph,Triumph Tiger 1200,4.7,7.0,1939000,1160.0,18.0,148.0,261.0,False,4.7
+KTM,KTM 890 Duke R,4.4,11.0,1450000,889.0,21.0,119.0,180.0,False,4.4
+Triumph,Triumph Street Triple RX,4.4,2.0,1390600,765.0,19.0,128.2,168.0,True,
+Vespa,Vespa 150,3.2,7.0,146709,149.5,46.0,11.2,115.0,False,3.2
+Ducati,Ducati Scrambler Icon,4.4,3.0,1086986,803.0,19.0,71.87,185.0,True,
+Triumph,Triumph Scrambler 900,4.7,11.0,1074700,900.0,23.0,64.1,223.0,False,4.7
+Harley-Davidson,Harley-Davidson Breakout,4.8,2.0,3436000,1923.0,17.8,101.9,310.0,True,
+Kawasaki,Kawasaki Z650RS,4.3,2.0,783000,649.0,21.5,67.07,192.0,False,4.3
+Ducati,Ducati Diavel V4,4.7,3.0,2965962,1158.0,15.6,166.28,236.0,False,4.7
+Triumph,Triumph Tiger Sport 660,4.6,9.0,945000,660.0,22.0,80.0,206.0,False,4.6
+Vespa,Vespa S 150,4.5,2.0,149776,149.5,46.0,11.2,115.0,False,4.5
+Zontes,Zontes GK350,4.6,17.0,322016,348.0,26.7,38.2,188.0,False,4.6
+BMW,BMW K 1600,4.8,9.0,3800000,1649.0,17.0,158.0,358.0,True,
+Ducati,Ducati Streetfighter V2,4.4,3.0,1785977,890.0,17.0,118.0,200.0,False,4.4
+KTM,KTM 1290 Super Adventure S,4.7,5.0,2273900,1301.0,17.5,158.0,250.0,True,
+Triumph,Triumph Speed Twin 1200 Cafe Racer Edition,4.4,0.0,1799000,1200.0,21.0,103.5,216.0,True,
+Kawasaki,Kawasaki KLX230R S,4.7,1.0,189000,233.0,37.0,18.74,129.0,True,
+Kawasaki,Kawasaki Ninja 1100SX,4.7,2.0,1442000,1099.0,17.8,134.1,238.0,False,4.7
+Harley-Davidson,Harley-Davidson Street Bob,3.3,2.0,2023000,1923.0,18.0,91.18,293.0,False,3.3
+Brixton Motorcycles,Brixton Motorcycles Crossfire 500 XC,4.0,1.0,399999,486.0,30.0,47.6,195.0,True,
+BMW,BMW F 900 GS,4.9,7.0,1600000,895.0,22.7,103.25,219.0,False,4.9
+Benelli,Benelli Leoncino 500,4.550000000000001,16.0,559894,500.0,25.0,46.8,207.0,True,
+BMW,BMW R 12 nine T,4.8,6.0,2350000,1170.0,19.6,107.5,220.0,False,4.8
+Kawasaki,Kawasaki Versys 650 [2026],4.7,0.0,863000,649.0,19.4,65.7,218.0,True,
+Moto Morini,Moto Morini X-Cape,4.1,10.0,639973,649.0,25.0,59.17,235.0,False,4.1
+Aprilia,Aprilia Storm 125,4.5,83.0,118927,124.45,36.5,9.97,118.0,False,4.5
+Brixton Motorcycles,Brixton Motorcycles Cromwell 1200,4.7,7.0,823778,1222.0,25.0,83.0,235.0,False,4.7
+Vespa,Vespa S 125,4.1,5.0,136957,124.45,39.0,9.3,115.0,True,
+Indian,Indian Scout Sixty Bobber,4.75,4.0,1388244,999.0,19.0,86.18,243.0,True,
+Triumph,Triumph Scrambler 1200,4.4,3.0,1264100,1200.0,21.0,89.0,228.0,True,
+Harley-Davidson,Harley-Davidson Nightster Special,4.8,0.0,1538000,975.0,18.0,88.5,225.0,True,
+BMW,BMW R 12,4.3,6.0,2250000,1170.0,19.6,93.7,227.0,False,4.3
+Ducati,Ducati Multistrada V4,4.4,0.0,2505968,1158.0,15.0,167.62,243.0,True,
+Indian,Indian Chief Dark Horse,4.6,17.0,2158779,1890.0,14.0,107.2,304.0,False,4.6
+Kawasaki,Kawasaki KLX230R [2025],4.6,8.0,179010,233.0,37.0,18.74,129.0,False,4.6
+KTM,KTM 890 Adventure R,4.7,2.0,1580000,889.0,22.2,103.0,215.0,True,
+Ducati,Ducati XDiavel V4,4.4,0.0,3150960,1158.0,15.0,166.28,236.0,True,
+Kawasaki,Kawasaki Z650RS [2025],4.7,10.0,768968,649.0,21.5,67.31,192.0,False,4.7
+Triumph,Triumph Speed Twin 1200 TFC,2.5,1.0,2099000,1200.0,21.0,103.5,216.0,False,2.5
+Harley-Davidson,Harley-Davidson PAN America 1250 Special,4.8,0.0,2716000,1252.0,18.0,150.19,258.0,True,
+Triumph,Triumph Bonneville T120 Black,4.4,0.0,1217000,1200.0,21.0,78.9,236.0,True,
+Kawasaki,Kawasaki Vulcan S [2027],3.3,2.0,823000,649.0,21.5,59.94,192.0,False,3.3
+Kawasaki,Kawasaki Ninja 650 [2025],4.8,5.0,776967,649.0,21.5,67.3,196.0,False,4.8
+Kawasaki,Kawasaki KLX230 [2025],4.8,16.0,184010,233.0,38.0,18.37,139.0,False,4.8
+Ducati,Ducati Hypermotard 950,4.4,7.0,1710500,937.0,19.6,112.6,191.0,False,4.4
+Ducati,Ducati DesertX,3.7,3.0,1959200,937.0,17.8,108.6,223.0,False,3.7
+Harley-Davidson,Harley-Davidson Street Glide,4.8,3.0,4250000,1923.0,16.0,107.2,368.0,True,
+Harley-Davidson,Harley-Davidson Heritage Classic,4.8,0.0,2571000,1868.0,18.0,93.87,330.0,True,
+Kawasaki,Kawasaki KLX230 S,4.7,0.0,219000,233.0,36.0,18.37,139.0,True,
+Kawasaki,Kawasaki Versys-X 300 [2025],4.7,4.0,349020,296.0,26.75,38.8,179.0,True,
+Indian,Indian Scout Classic,4.75,0.0,1498321,1250.0,21.0,106.46,252.0,True,
+Aprilia,Aprilia Tuono 660,4.35,1.0,1863817,659.0,26.5,93.87,183.0,True,
+Ducati,Ducati Scrambler Nightshift,4.4,3.0,1346600,803.0,19.0,71.87,191.0,True,
+Kawasaki,Kawasaki Versys 650 [2027],4.7,0.0,863000,649.0,19.4,65.7,218.0,True,
+KTM,KTM 85 SX,4.7,2.0,669000,84.9,55.0,15.5,75.0,True,
+Brixton Motorcycles,Brixton Motorcycles Cromwell 1200 X,4.0,0.0,973819,1222.0,25.0,83.0,235.0,True,
+Indian,Indian Super Chief Limited,4.75,6.0,2438944,1890.0,14.0,107.2,335.0,True,
+Kawasaki,Kawasaki Ninja 1100SX [2025],4.9,11.0,1441939,1099.0,17.8,134.1,238.0,False,4.9
+Aprilia,Aprilia Tuareg 660,4.3,2.0,2014504,659.0,26.5,79.12,204.0,False,4.3
+Kawasaki,Kawasaki KLX450R,4.5,2.0,960960,449.0,21.5,66.38499999999999,126.0,False,4.5
+Kawasaki,Kawasaki Versys 1100,2.5,1.0,1389000,1099.0,17.8,132.76,257.0,False,2.5
+Triumph,Triumph Tiger 900 Alpine Edition,4.4,0.0,1535000,888.0,21.2,106.5,219.0,True,
+Ducati,Ducati Multistrada V4 RS,4.5,2.0,4346700,1103.0,15.0,180.0,260.0,False,4.5
+Ducati,Ducati Scrambler Full Throttle,4.4,1.0,1373982,803.0,19.0,71.87,185.0,True,
+KTM,KTM 50 SX,3.7,3.0,475000,49.9,55.0,5.3,45.0,False,3.7
+Indian,Indian Scout Sixty Classic,4.75,0.0,1434198,999.0,19.0,86.18,241.0,True,
+Ducati,Ducati Multistrada V2,4.4,0.0,1925975,890.0,17.0,113.98,225.0,True,
+Triumph,Triumph Tiger 900 Desert Edition,2.5,1.0,1605000,888.0,21.2,106.5,219.0,False,2.5
+Kawasaki,Kawasaki KLX110R L,4.7,3.0,288016,112.0,55.0,8.48,76.0,False,4.7
+Moto Guzzi,Moto Guzzi V85 TT,4.5,1.0,1645802,853.0,23.8,75.09,230.0,True,
+KTM,KTM 450 SX-F,4.7,0.0,1025100,449.9,25.0,62.1,107.0,True,
+Indian,Indian Chief Bobber Dark Horse,4.75,4.0,2286943,1890.0,14.0,107.2,315.0,True,
+Indian,Indian 101 Scout,4.75,1.0,1708855,1250.0,21.0,112.54,249.0,True,
+Kawasaki,Kawasaki KX450,4.7,4.0,991958,449.0,21.5,66.38499999999999,110.2,True,
+BSA,BSA Gold Star 650,4.4,0.0,337224,652.0,25.0,45.6,201.0,True,
+Kawasaki,Kawasaki KLX230RS [2023-2025],4.7,3.0,481026,233.0,37.0,19.57,115.0,True,
+Kawasaki,Kawasaki KX112,4.5,2.0,450025,112.0,55.0,8.48,77.0,False,4.5
+Kawasaki,Kawasaki KLX 140R F,2.5,1.0,379021,144.0,46.0,11.1,99.0,False,2.5
+Kawasaki,Kawasaki KX 85,4.7,3.0,388021,84.0,55.0,8.48,74.6,True,
+Ducati,Ducati Hypermotard 698 Mono,4.4,4.0,1870300,659.0,20.8,76.43,159.0,True,
+Kawasaki,Kawasaki Versys 1100 [2025],4.5,2.0,1378942,1099.0,17.8,132.76,257.0,False,4.5
+KTM,KTM 250 SX-F,4.7,0.0,958000,249.9,35.0,46.1,104.0,True,
+KTM,KTM 350 EXC-F,4.5,2.0,1295800,349.7,28.0,44.3,103.2,False,4.5
+KTM,KTM 65 SX,4.7,0.0,546500,64.9,55.0,11.2,62.0,True,
+Indian,Indian Sport Scout Sixty,4.75,0.0,1419237,999.0,19.0,86.18,241.0,True,
+Indian,Indian Sport Scout,4.75,1.0,1505802,1250.0,21.0,106.46,248.0,True,
+Indian,Indian Super Scout,4.75,2.0,1725954,1250.0,21.0,106.46,268.0,True,
+Ducati,Ducati Desmo450 MX,4.4,0.0,1723600,449.6,20.8,62.62,159.0,True,
+Ducati,Ducati Multistrada V4 Rally,4.4,0.0,3240000,1158.0,15.0,167.62,238.0,True,
