@@ -21,9 +21,8 @@ An end-to-end data analysis project in Python: **web scraping → data cleaning 
 9. [Conclusion](#-conclusion)
 10. [Limitations & Future Scope](#-limitations--future-scope)
 11. [Repository Structure](#-repository-structure)
-12. [How to Run](#-how-to-run)
-13. [Tech Stack](#-tech-stack)
-14. [Author](#-author)
+12. [Tech Stack](#-tech-stack)
+13. [Author](#-author)
 
 ---
 
@@ -332,18 +331,15 @@ Duplicates were reviewed first with `duplicated(keep=False)` and then removed wi
 > Adjust the names below to match your actual files.
 
 ```
-├── data/
-│   ├── raw/
-│   │   ├── Electric_Vehicles.csv
-│   │   └── Non_Electric_Vehicles.csv
-│   └── cleaned/
-│       ├── Electric_Cleaned_DataSet.csv
-│       └── Non_Electric_Cleaned_DataSet.csv
-├── notebooks/
-│   ├── 01_Web_Scraping.ipynb
-│   ├── 02_Data_Cleaning.ipynb
-│   ├── 03_Data_Analysis_Non_Electric_Vehicles.ipynb
-│   └── 04_Data_Analysis_Electric_Vehicles.ipynb
+
+├── 01_Web_Scraping.ipynb
+├── 02_Data_Cleaning.ipynb
+├── 03_Data_Analysis_Non_Electric_Vehicles.ipynb
+├── 04_Data_Analysis_Electric_Vehicles.ipynb
+├── Electric_Vehicles.csv
+├── Electric_Cleaned_DataSet.csv
+├── Non_Electric_Vehicles.csv
+├── Non_Electric_Cleaned_DataSet.csv
 └── README.md
 ```
 
