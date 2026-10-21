@@ -337,8 +337,8 @@ Duplicates were reviewed first with `duplicated(keep=False)` and then removed wi
 │   │   ├── Electric_Vehicles.csv
 │   │   └── Non_Electric_Vehicles.csv
 │   └── cleaned/
-│       ├── Electric_Cleaned_DataSet1.csv
-│       └── Non_Electric_Cleaned_DataSet1.csv
+│       ├── Electric_Cleaned_DataSet.csv
+│       └── Non_Electric_Cleaned_DataSet.csv
 ├── notebooks/
 │   ├── 01_Web_Scraping.ipynb
 │   ├── 02_Data_Cleaning.ipynb
@@ -350,39 +350,8 @@ Duplicates were reviewed first with `duplicated(keep=False)` and then removed wi
 └── README.md
 ```
 
-> ⚠️ **File name tip:** the analysis notebooks must read the same file names that the cleaning notebook exports (for example `Electric_Cleaned_DataSet1.csv`). Check that the names match before running.
-
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-# 2. (Optional) create a virtual environment
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter and run the notebooks in order (01 → 04)
-jupyter notebook
-```
-
-**`requirements.txt`**
-```
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-requests
-beautifulsoup4
-jupyter
-```
 
 > **Scraping note:** website layouts change, so the scraper may need updated CSS selectors. If you only want to explore the analysis, skip notebook 01 and use the CSVs in `data/`. Please follow the website's terms of use and keep the delay between requests.
 
