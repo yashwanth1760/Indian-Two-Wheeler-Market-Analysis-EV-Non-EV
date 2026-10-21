@@ -344,9 +344,6 @@ Duplicates were reviewed first with `duplicated(keep=False)` and then removed wi
 │   ├── 02_Data_Cleaning.ipynb
 │   ├── 03_Data_Analysis_Non_Electric_Vehicles.ipynb
 │   └── 04_Data_Analysis_Electric_Vehicles.ipynb
-├── presentation/
-│   └── Two_Wheeler_Market_Analysis.pdf
-├── requirements.txt
 └── README.md
 ```
 
